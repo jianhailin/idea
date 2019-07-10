@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e40a10-d01f-48f1-b51f-56e979e29c67" name="Default Changelist" comment="" />
+    <list default="true" id="76e40a10-d01f-48f1-b51f-56e979e29c67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/git_demo/target/" />
@@ -35,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git_demo/src/main/java/com/itheima/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="56">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -61,8 +63,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/git_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/git_demo/src/main/java/com/itheima/User.java" />
         <option value="$PROJECT_DIR$/git_demo/src/main/aa/aa.txt" />
+        <option value="$PROJECT_DIR$/git_demo/src/main/java/com/itheima/User.java" />
+        <option value="$PROJECT_DIR$/git_demo/src/main/aa/bb.txt" />
       </list>
     </option>
   </component>
@@ -132,6 +135,23 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="aa" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="git_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+              <item name="git_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562735830718</updated>
-      <workItem from="1562735832481" duration="1135000" />
+      <workItem from="1562735832481" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="新建User类  提交到本地仓库">
       <created>1562736233597</created>
@@ -185,11 +205,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562736521263</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交id">
+      <created>1562737015573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562737015573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bb">
+      <created>1562737182368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562737182368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1135000" />
+    <option name="totallyTimeSpent" value="1378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -241,7 +275,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建User类  提交到本地仓库" />
     <MESSAGE value="提交age" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交age" />
+    <MESSAGE value="提交id" />
+    <MESSAGE value="bb" />
+    <option name="LAST_COMMIT_MESSAGE" value="bb" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -261,10 +297,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/git_demo/src/main/aa/bb.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/git_demo/src/main/java/com/itheima/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="56">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
