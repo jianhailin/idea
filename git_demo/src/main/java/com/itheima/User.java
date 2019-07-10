@@ -7,4 +7,5 @@ public class User {
     //clone提交的
     private String money;
     private String master;
+    private String dev;
 }
