@@ -6,4 +6,5 @@ public class User {
     private Integer id;
     //clone提交的
     private String money;
+    private String master;
 }
